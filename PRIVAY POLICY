@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PakExamPrep - Privacy Policy</title>
+<style>
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f6f9;
+    margin:0;
+    padding:20px;
+    color:#333;
+    line-height:1.7;
+}
+.container{
+    max-width:900px;
+    margin:auto;
+    background:#fff;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,.1);
+}
+h1{
+    color:#1e3a5f;
+    text-align:center;
+}
+h2{
+    color:#1e3a5f;
+    margin-top:30px;
+}
+p,li{
+    font-size:16px;
+}
+.footer{
+    text-align:center;
+    margin-top:40px;
+    color:#777;
+    font-size:14px;
+}
+a{
+    color:#1a73e8;
+    text-decoration:none;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p><strong>Effective Date:</strong> July 20, 2026</p>
+
+<p>
+PakExamPrep respects your privacy. This Privacy Policy explains how our app
+collects, uses, and protects information when you use the application.
+</p>
+
+<h2>Information We Collect</h2>
+
+<p>
+PakExamPrep does not require users to create an account or provide personal
+information.
+</p>
+
+<p>The app may automatically collect limited information such as:</p>
+
+<ul>
+<li>Device information</li>
+<li>Crash reports</li>
+<li>Performance data</li>
+<li>Advertising identifiers (if applicable)</li>
+</ul>
+
+<h2>Advertising</h2>
+
+<p>
+PakExamPrep uses Google AdMob to display advertisements.
+Google and its partners may collect certain information in accordance with
+their privacy policies.
+</p>
+
+<p>
+Google Privacy Policy:
+<br>
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
+
+<h2>How We Use Information</h2>
+
+<ul>
+<li>Improve app performance</li>
+<li>Fix bugs and crashes</li>
+<li>Provide relevant advertisements</li>
+<li>Enhance user experience</li>
+</ul>
+
+<h2>Data Sharing</h2>
+
+<p>
+We do not sell your personal information.
+Information may only be shared with trusted services such as Google AdMob
+or when required by law.
+</p>
+
+<h2>Children's Privacy</h2>
+
+<p>
+PakExamPrep is not specifically directed toward children under the age of 13.
+We do not knowingly collect personal information from children.
+</p>
+
+<h2>Data Security</h2>
+
+<p>
+We use reasonable measures to protect the information processed by the app.
+</p>
+
+<h2>Changes to This Privacy Policy</h2>
+
+<p>
+This Privacy Policy may be updated from time to time.
+Any changes will be posted on this page.
+</p>
+
+<h2>Contact Us</h2>
+
+<p>
+If you have any questions regarding this Privacy Policy, please contact us:
+</p>
+
+<p>
+<b>Email:</b> imbise786@gmail.com
+</p>
+
+<div class="footer">
+© 2026 PakExamPrep. All Rights Reserved.
+</div>
+
+</div>
+
+</body>
+</html>
